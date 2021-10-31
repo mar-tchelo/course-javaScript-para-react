@@ -1,5 +1,5 @@
 //import './style.css'
-// Aula 5 19:51
+// Video 11 
 import './src/styles/settings/colors.css'
 import './src/styles/generic/reset.css'
 import './src/styles/elements/base.css'
