@@ -1,4 +1,5 @@
 import PlayerName from "../../components/PlayerName";
+import "./style.css"
 
 function ScoreBoard(){
     return /*html*/ `
@@ -7,7 +8,7 @@ function ScoreBoard(){
             ${PlayerName("Player1")}
             ${PlayerName("Player2")}  
         </header>
-        
+
     `;
 }
 
