@@ -4,7 +4,7 @@ function CardGame() {
     return /*html*/`
 
         <article class="card-game">
-            <img src="images/alura.png">
+            <img src="images/alura.png" alt="Logo da Alura" />
         </article>    
 
     `;
