@@ -1,5 +1,5 @@
 import "./style.css";
-//http://localhost:3000/images/javascript
+
 function CardGame(icon='alura', alt ='Logo da Alura') {
     return /*html*/`
 
